@@ -51,7 +51,7 @@ reset - Reset all settings to default
 
 #### Easiest Way [Deploy To Heroku] 😪
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bulanbintang69/Watermark-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/bulanbintang69/Watermark-Bot-1)
 
 #### Video Tutorial:
 [![YouTube](https://img.shields.io/badge/YouTube-Video%20Tutorial-red?logo=youtube)](https://www.youtube.com/watch?v=A7wnaKMHpvU&t)
