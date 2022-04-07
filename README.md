@@ -58,7 +58,7 @@ reset - Reset all settings to default
 
 #### The Hard Way 🤕
 ```sh
-git clone https://github.com/AbirHasan2005/Watermark-Bot
+git clone https://github.com/bulanbintang69/Watermark-Bot
 cd Watermark-Bot
 virtualenv -p python3 VENV
 . ./VENV/bin/activate
